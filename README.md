@@ -35,5 +35,5 @@ checkSyntax("   (      [)") == 1
 // и так далее...
 ```
 
-[Решение задачи](https://github.com/zeromvx/js-tasks/task1/task1.md)
+[Решение задачи](https://github.com/zeromvx/js-tasks/blob/master/task1/task1.md)
 ----
