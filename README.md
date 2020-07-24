@@ -34,4 +34,6 @@ checkSyntax("(  [  <>  ()  ]  <>  )") == 0
 checkSyntax("   (      [)") == 1
 // и так далее...
 ```
+
+[Решение задачи](https://github.com/zeromvx/js-tasks/task1/task1.md)
 ----
